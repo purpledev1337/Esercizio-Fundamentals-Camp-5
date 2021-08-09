@@ -1,0 +1,21 @@
+header > img {
+  width: 150px;
+  height: 150px;
+}
+
+header {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+hr {
+  border: 1px solid;
+}
+
+main {
+  padding: 10px;
+}
+
+section h2:first-child, hr {
+  color: orange;
+}
